@@ -7,9 +7,9 @@
   --color-gradienteTarjeta-fin: #cb2d3e;
   --color-fondoTarjeta: white;
 
-  --verdeazul: rgb(0, 255, 157);
-  --verdeazul-claro: rgb(0, 216, 133);
-  --verde-obscuro: rgb(4, 61, 35);
+  --verdeazul: rgb(0, 2, 94);
+  --verdeazul-claro: rgb(3, 8, 78);
+  --verde-obscuro: rgb(123, 190, 253);
 
   --fuente-oficial: "IBM Plex Sans", sans-serif;
   --fuente-delgada: 300;
@@ -18,8 +18,8 @@
 
   --gradiente-tarjeta: linear-gradient(
     to right,
-    rgb(0, 48, 12),
-    rgb(0, 131, 33)
+    rgb(100, 103, 255),
+    rgb(34, 208, 252)
   );
 
   --efecto-resalto: translateY(-2px);
